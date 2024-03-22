@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Welcome to my Github Page. My Name is Finix</h1>
-<h3 align="center">in AI, Data Science, Machine Learning, and Robotics.</h3>
+<h3 align="center">Working on AI, Data Science, Machine Learning, and Robotics projects.</h3>
 
 - 🔭 I’m currently working on **mainly Python Projects involving automations,datasets as well as doing Arduino based projects**
 
