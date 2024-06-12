@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working **mainly on Python Projects involving automations,datasets as well as doing Arduino based projects**
 
+- 💼 I've worked with **Python, C/C++, and Java on projects using databases, making predictions with models, and solving practical problems at our institution**
+
 - 🌱 I’m currently learning **AI and Data Science, Machine learning, Computer Vision, Time series**
 
 - 🤝 I’m looking to collaborate on **Time series forcasting projects**
